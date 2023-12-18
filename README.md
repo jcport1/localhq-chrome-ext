@@ -1,0 +1,1 @@
+# localhq-chrome-ext
